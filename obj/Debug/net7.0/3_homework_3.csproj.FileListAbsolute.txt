@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\c#_lesson1\3_homework_3\obj\Debug\net7.0\3_homework_3.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\c#_lesson1\3_homework_3\obj\Debug\net7.0\3_homework_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\c#_lesson1\3_homework_3\obj\Debug\net7.0\3_homework_3.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\c#_lesson1\3_homework_3\obj\Debug\net7.0\3_homework_3.AssemblyInfo.cs
+C:\Users\hp\Desktop\c#_lesson1\3_homework_3\obj\Debug\net7.0\3_homework_3.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\c#_lesson1\3_homework_3\bin\Debug\net7.0\3_homework_3.exe
+C:\Users\hp\Desktop\c#_lesson1\3_homework_3\bin\Debug\net7.0\3_homework_3.deps.json
+C:\Users\hp\Desktop\c#_lesson1\3_homework_3\bin\Debug\net7.0\3_homework_3.runtimeconfig.json
+C:\Users\hp\Desktop\c#_lesson1\3_homework_3\bin\Debug\net7.0\3_homework_3.dll
+C:\Users\hp\Desktop\c#_lesson1\3_homework_3\bin\Debug\net7.0\3_homework_3.pdb
+C:\Users\hp\Desktop\c#_lesson1\3_homework_3\obj\Debug\net7.0\3_homework_3.dll
+C:\Users\hp\Desktop\c#_lesson1\3_homework_3\obj\Debug\net7.0\refint\3_homework_3.dll
+C:\Users\hp\Desktop\c#_lesson1\3_homework_3\obj\Debug\net7.0\3_homework_3.pdb
+C:\Users\hp\Desktop\c#_lesson1\3_homework_3\obj\Debug\net7.0\3_homework_3.genruntimeconfig.cache
+C:\Users\hp\Desktop\c#_lesson1\3_homework_3\obj\Debug\net7.0\ref\3_homework_3.dll
